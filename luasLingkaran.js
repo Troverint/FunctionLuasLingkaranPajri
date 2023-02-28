@@ -13,4 +13,4 @@ function luasLingkaran(a,b){
 var a = 22/7;
 var b = parseInt(prompt("silahkan masukan jari-jari"));
 var hasil= luasLingkaran(a,b);
-document.write("hasil luas liungkarannyta adalah ",hasil);
+document.write("hasil luas lingkarannya adalah ",hasil);
